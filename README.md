@@ -12,9 +12,9 @@ This is a component that will be treated like an img and will style the img like
 
 imgSrc="./assets/images/example.jpg" row="4" col="6"
 
-![example1](https://imgur.com/lHpNExB)
+![](https://i.imgur.com/nXoNO8r.png)
 
-imgSrc="./assets/images/example.jpg" row="4" col="6"
+imgSrc="./assets/images/example.jpg" row="3 col="5"
 
-![example1](https://imgur.com/lHpNExB)
+![](https://i.imgur.com/qALO6o5.png)
 
