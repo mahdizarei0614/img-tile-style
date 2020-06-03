@@ -20,7 +20,7 @@ export class ImgTileStyleComponent implements OnInit {
     const grid = document.getElementsByClassName('grid')[0];
     console.log(grid);
     const row = '<div class="row" style="display: flex; flex-direction: row; flex-grow: 1;"></div>';
-    const cell = '<div class="cell" style="flex-grow: 1; box-sizing: border-box; border: 1px gray solid;"></div>';
+    const cell = '<div class="cell" style="flex-grow: 1; box-sizing: border-box; border: 1px white solid;"></div>';
     for (let i = 0; i < this.row; i++) {
       grid.insertAdjacentHTML('beforeend', row);
     }
