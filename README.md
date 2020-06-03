@@ -10,11 +10,11 @@ This is a component that will be treated like an img and will style the img like
 
 ## Example
 
-imgSrc="./assets/images/example.jpg" row="4" col="6"
+row="4" col="6"
 
 ![](https://i.imgur.com/nXoNO8r.png)
 
-imgSrc="./assets/images/example.jpg" row="3 col="5"
+row="3 col="5"
 
 ![](https://i.imgur.com/qALO6o5.png)
 
