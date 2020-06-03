@@ -1,27 +1,20 @@
 # TileImage
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
+This is a component that will be treated like an img and will style the img like tiles.
 
-## Development server
+## Propeties
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+imgSrc: src of the img
+row: number of rows
+col: number of cols
 
-## Code scaffolding
+## Example
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+row="4" col="6"
 
-## Build
+![](https://i.imgur.com/nXoNO8r.png)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+row="3 col="5"
 
-## Running unit tests
+![](https://i.imgur.com/qALO6o5.png)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
