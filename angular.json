@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "tileImage"
+    }
+  },
+  "defaultProject": "tileImage",
+  "cli": {
+    "analytics": "f46b8716-1292-4b8e-99f9-bafb7db73f72"
+  }
 }
