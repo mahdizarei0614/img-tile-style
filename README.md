@@ -1,12 +1,12 @@
 # TileImage
 
-This is a component that will be treated like an img and will style the img like tiles:
+This is a component that will be treated like an img and will style the img like tiles.
 
 ## Propeties
 
-1. imgSrc: src of the img
-2. row: number of rows
-3. col: number of cols
+imgSrc: src of the img
+row: number of rows
+col: number of cols
 
 ## Example
 
